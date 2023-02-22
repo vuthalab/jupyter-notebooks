@@ -7,3 +7,4 @@ This repo contains Python code, with accompanying equations and plots, to descri
 * Using ABCD matrices to understand ray transformations through an optical system
 * Mode-matching a gaussian beam to an optical cavity
 * Laser beam profiling with a knife edge
+* Solving the Poisson equation using the relaxation method
