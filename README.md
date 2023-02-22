@@ -8,3 +8,4 @@ This repo contains Python code, with accompanying equations and plots, to descri
 * Mode-matching a gaussian beam to an optical cavity
 * Laser beam profiling with a knife edge
 * Solving the Poisson equation using the relaxation method
+* Correctly visualizing spherical harmonics
